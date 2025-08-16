@@ -4,5 +4,5 @@
   "packet_id":"FiHIATSt7bt3kGyD",
   "logging_enable":true,
   "packet_background": true,
-  "is_packet_apply": false
+  "is_packet_apply": true
 }
